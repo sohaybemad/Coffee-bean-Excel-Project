@@ -1,9 +1,10 @@
 # Coffee-bean-sales-Dashbooard
 
 Building a dashboard about coffee bean sales. Here are the steps we took:
-*Gather the customer data using XLOOKUP
-*Using the index match to gather the product data
-*Formatting Some Columns
-*Creating pivot tables and pivot chart
-*Crete a timeline and some slicers
-*Building the final dashboard
+* Gather the customer data using XLOOKUP
+* Use the INDEX MATCH to gather the product data
+* Format some columns
+* Create pivot tables and pivot chart
+* Create a timeline and some slicers
+* Build the final dashboard
+
