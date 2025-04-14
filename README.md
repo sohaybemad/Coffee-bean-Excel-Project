@@ -12,8 +12,8 @@ This project involves a dashboard that tracks and analyzes sales data for variou
 
 * Loyalty Card Program: Tracks loyalty card members for potential analysis.
 
-## Insights
-## Total Sales Over Time:
+### Insights:
+### Total Sales Over Time:
 * Monthly sales fluctuate significantly across coffee types.
 
 * Seasonal peaks observed during 2020-2021, with Liberica showing the highest sales spikes.
