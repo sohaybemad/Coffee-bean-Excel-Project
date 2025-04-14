@@ -1,9 +1,9 @@
 # Coffee Sales Dashboard Project
 
-## Project Overview
+### Project Overview
 This project involves a dashboard that tracks and analyzes sales data for various coffee types, roast preferences, package sizes, and customer demographics. It provides insights into sales performance and trends to help guide decision-making.
 
-## Features
+### Features
 * Coffee Types: Arabica, Excelsa, Liberica, and Robusta.
 
 * Sizes Available: 0.2 kg, 0.5 kg, 1.0 kg, and 2.5 kg.
