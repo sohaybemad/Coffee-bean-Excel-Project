@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard Project
+# Coffee Bean Sales Dashboard Project
 
 ### Project Overview
 This project involves a dashboard that tracks and analyzes sales data for various coffee types, roast preferences, package sizes, and customer demographics. It provides insights into sales performance and trends to help guide decision-making.
